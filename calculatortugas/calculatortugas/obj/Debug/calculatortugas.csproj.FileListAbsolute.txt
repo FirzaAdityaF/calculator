@@ -1,0 +1,10 @@
+C:\Users\Wahyu\Downloads\calculatortugas\calculatortugas\obj\Debug\calculatortugas.csprojAssemblyReference.cache
+C:\Users\Wahyu\Downloads\calculatortugas\calculatortugas\obj\Debug\calculatortugas.Form1.resources
+C:\Users\Wahyu\Downloads\calculatortugas\calculatortugas\obj\Debug\calculatortugas.Properties.Resources.resources
+C:\Users\Wahyu\Downloads\calculatortugas\calculatortugas\obj\Debug\calculatortugas.csproj.GenerateResource.cache
+C:\Users\Wahyu\Downloads\calculatortugas\calculatortugas\obj\Debug\calculatortugas.csproj.CoreCompileInputs.cache
+C:\Users\Wahyu\Downloads\calculatortugas\calculatortugas\bin\Debug\calculatortugas.exe.config
+C:\Users\Wahyu\Downloads\calculatortugas\calculatortugas\bin\Debug\calculatortugas.exe
+C:\Users\Wahyu\Downloads\calculatortugas\calculatortugas\bin\Debug\calculatortugas.pdb
+C:\Users\Wahyu\Downloads\calculatortugas\calculatortugas\obj\Debug\calculatortugas.exe
+C:\Users\Wahyu\Downloads\calculatortugas\calculatortugas\obj\Debug\calculatortugas.pdb
